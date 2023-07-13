@@ -1,0 +1,27 @@
+.domain-info{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+.task{
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border: 1px solid ghostwhite;
+    border-radius: 15px;
+}
+.task-title{
+    margin: 10px 0;
+    font-size: 20px;
+}
+.task-content{
+    display: flex;
+    flex-direction: column;
+}
+.task-time{
+    width: 40px;
+}
+.task-submit{
+    margin-left: auto;
+}

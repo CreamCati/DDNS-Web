@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    border-bottom: 1px solid gainsboro;
+    padding: 0 30px;
+    justify-content: space-between;
+}
+.setting{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.settingUrl:hover{
+    cursor: pointer;
+    color: deepskyblue;
+}
+.settingAuth:hover{
+    cursor: pointer;
+    color: deepskyblue;
+}

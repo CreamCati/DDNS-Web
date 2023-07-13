@@ -1,0 +1,7 @@
+.domain-list{
+    background: white;
+    display: flex;
+    border-right: 1px solid gainsboro;
+    width: 300px;
+    flex-direction: column;
+}
